@@ -1,7 +1,5 @@
 package com.lab2;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
